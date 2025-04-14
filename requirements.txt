@@ -1,0 +1,6 @@
+pandas
+numpy
+soundfile
+streamlit as st
+tempfile
+os
